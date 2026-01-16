@@ -2,7 +2,15 @@
 
 Este repositório existe para organizar e registrar meus estudos em **Cybersegurança** 🛡️ e nas áreas fundamentais da **Ciência da Computação** que dão base para a segurança da informação.
 
-Aqui eu concentro anotações, resumos e explicações feitas do meu jeito, conectando temas como arquitetura de computadores 🖥️, memória 🧠, sistemas operacionais 🐧, redes 🌐, firmware ⚙️ e conceitos essenciais de segurança. A ideia não é só aprender a usar ferramentas, mas entender **como os sistemas funcionam por dentro** — e onde podem falhar.
+Aqui eu concentro anotações, resumos e explicações feitas do meu jeito, conectando temas como: 
+- 🖥️ arquitetura de computadores  
+- 🧠 memória
+- 🐧 sistemas operacionais
+- 🌐 redes
+- ⚙️ firmware 
+- 🔐 conceitos essenciais de segurança
+
+A ideia não é só aprender a usar ferramentas, mas entender **como os sistemas funcionam por dentro** — e onde podem falhar.
 
 Muitos dos conteúdos são mais teóricos e de baixo nível, mas são exatamente eles que fazem vários assuntos “clicarem” depois 💡, como vulnerabilidades, exploits, escalada de privilégios, malware e defesa de sistemas.
 
