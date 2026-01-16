@@ -1,5 +1,7 @@
 # 📁 Fundamentos de Sistemas
 
+![Camadas de um sistema computacional](./imagens/Diagrama de sistemas.webp)
+
 Essa pasta é onde eu guardo meus estudos sobre **como um computador realmente funciona por dentro**.  
 Não no sentido de só usar programas ou ferramentas, mas de entender o que está acontecendo por trás quando a gente liga um sistema, roda um código ou executa um comando 💻⚙️
 
