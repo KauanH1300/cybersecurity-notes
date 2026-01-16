@@ -22,9 +22,17 @@ Responsável por coordenar o funcionamento da CPU:
 - cálculos matemáticos (soma, subtração, etc.)
 - operações lógicas (AND, OR, NOT, comparações)
 ### 🔹Registradores
-São pequenas áreas de memória **dentro da CPU**, extremamente rápidas.
-
-Servem para:
+São pequenas áreas de memória dentro da CPU, extremamente rápidas e servem para:
 - armazenar dados temporários
 - guardar endereços de memória
 - controlar o fluxo de execução
+
+Registradores mais comuns:
+- Program Counter (PC)
+  - guarda o endereço da próxima instrução que será executada
+  - é atualizado a cada ciclo de instrução
+  - controla o fluxo do programa
+- Instruction Register (IR)
+  - armazena a instrução atual que está sendo executada
+  - recebe a instrução após o fetch
+  - é usado durante a decodificação e execução
