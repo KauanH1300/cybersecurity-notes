@@ -194,7 +194,3 @@ Utiliza múltiplos feixes de luz.
 - Usada em redes locais
 
 ---
-
-## Resumo
-
-O cabeamento define como os dados são fisicamente transmitidos na rede, utilizando diferentes meios e padrões que garantem comunicação eficiente e confiável.
