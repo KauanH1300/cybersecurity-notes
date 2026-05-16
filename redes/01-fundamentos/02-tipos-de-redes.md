@@ -108,7 +108,3 @@ Conexão Bluetooth entre celular e fone de ouvido.
 | WAN | Grandes distâncias | Internet |
 
 ---
-
-## Resumo
-
-Os diferentes tipos de rede existem para atender necessidades específicas de comunicação, variando principalmente em alcance, velocidade e forma de conexão.
