@@ -11,10 +11,10 @@ Se você está começando em redes, talvez esse conteúdo possa te ajudar de alg
 ## 📚 Conteúdo
 
 ### 🔹 Fundamentos
-- (Introdução às redes)[01-fundamentos/01-introducao-redes.md]
-- (Tipos de rede)[01-fundamentos/02-tipos-de-redes.md]
-- (Componentes de rede)[01-fundamentos/03-componentes-de-rede.md]
-- (Cabeamento de erede)[01-fundamentos/04-cabeamento-de-rede.md]
+- [Introdução às redes](01-fundamentos/01-introducao-redes.md)
+- [Tipos de rede](01-fundamentos/02-tipos-de-redes.md)
+- [Componentes de rede](01-fundamentos/03-componentes-de-rede.md)
+- [Cabeamento de rede](01-fundamentos/04-cabeamento-de-rede.md)
 - Modelo OSI
 - Modelo TCP/IP
 
