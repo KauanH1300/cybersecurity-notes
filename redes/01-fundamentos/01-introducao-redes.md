@@ -61,8 +61,3 @@ Quando um usuário acessa um site:
 
 ---
 
-## Resumo
-
-Uma rede permite que dispositivos se conectem e troquem informações de forma organizada e eficiente.
-
----
