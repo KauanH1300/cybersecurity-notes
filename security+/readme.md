@@ -6,7 +6,7 @@ Este repositório é dedicado à documentação, resumos teóricos e laboratóri
 
 ## 🚀 Progresso Geral do Curso
 
-- [ ] **Seção 0:** Introdução
+- [x] **Seção 0:** Introdução
 - [ ] **Seção 1:** General Security Concepts
 - [ ] **Seção 2:** Threats, Vulnerabilities, and Mitigations
 - [ ] **Seção 3:** Security Architecture
@@ -18,11 +18,11 @@ Este repositório é dedicado à documentação, resumos teóricos e laboratóri
 ## 📚 Cronograma de Vídeos (Checklist de Estudos)
 
 ### Seção 0: Introdução
-- [ ] 0.1 - How to Pass Your SY0-701 Security+ Exam
+- [x] 0.1 - How to Pass Your SY0-701 Security+ Exam
 
 ### Seção 1: General Security Concepts
 #### 1.1 – Security Controls
-- [ ] Security Controls
+- [x] Security Controls
 #### 1.2 – Security Concepts
 - [ ] The CIA Triad
 - [ ] Non-repudiation
